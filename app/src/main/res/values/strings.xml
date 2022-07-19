@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+
+    <string name="title_add">Add Expenses</string>
+    <string name="add_title">Title</string>
+    <string name="add_category">Category</string>
+    <string name="add_price">Price</string>\
+    <string name="add_save_close">Save &amp; Go Back</string>
+    <string name="add_save_more">Save &amp; Add More</string>
+    <string name="add_data_saved">Record saved successfully!!</string>
+    <string name="home_no_data">No data found, please add your expenses</string>
+    <string-array name="cat">
+        <item>"Clothes"</item>
+        <item>"Eating Out"</item>
+        <item>"Entertainment"</item>
+        <item>"Fuel"</item>
+        <item>"General"</item>
+        <item>"Gifts"</item>
+        <item>"Grocery"</item>
+        <item>"Holidays"</item>
+        <item>"Kids"</item>
+        <item>"Shopping"</item>
+        <item>"Sports"</item>
+        <item>"Travel"</item>
+    </string-array>
+
+</resources>
